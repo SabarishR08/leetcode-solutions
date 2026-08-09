@@ -1,7 +1,7 @@
 [
   {
     "title": "Two Sum",
-    "difficulty": "Unknown",
+    "difficulty": "Easy",
     "lang": "java",
     "path": "solutions/Two Sum/solution.java",
     "timestamp": 1786247865400

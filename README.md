@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Auto-synced with [LeetHub DIY](https://github.com) — a self-built, privacy-focused
+Auto-synced with [SabarishR08/leetpush](https://github.com/SabarishR08/leetpush) — a self-built, privacy-focused
 alternative to OAuth-based sync extensions. Uses a fine-grained GitHub token
 scoped to just this repo's Contents, nothing else.
 
@@ -8,6 +8,6 @@ scoped to just this repo's Contents, nothing else.
 
 | Problem | Difficulty | Language |
 |---|---|---|
-|| [Two Sum](solutions/Two%20Sum/solution.java) | Unknown | java |
+| [Two Sum](solutions/Two%20Sum/solution.java) | Easy | java |
 
 _Last updated: 2026-08-09_

@@ -1,6 +1,6 @@
 # [Two Sum](https://leetcode.com/problems/two-sum/)
 
-**Difficulty:** Unknown
+**Difficulty:** Easy
 
 ## Solutions
 
