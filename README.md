@@ -8,6 +8,6 @@ scoped to just this repo's Contents, nothing else.
 
 | Problem | Difficulty | Language |
 |---|---|---|
-| [Two Sum](solutions/Two%20Sum/solution.java) |  Unknown | java |
+|| [Two Sum](solutions/Two%20Sum/solution.java) | Unknown | java |
 
 _Last updated: 2026-08-09_
